@@ -1,0 +1,14 @@
+Request session data:  Session {
+  cookie: { path: '/', _expires: null, originalMaxAge: null, httpOnly: true }
+}
+
+
+Request session data after login:  Session {
+  cookie: { path: '/', _expires: null, originalMaxAge: null, httpOnly: true },
+  user: 'mani'
+}
+
+
+
+
+
